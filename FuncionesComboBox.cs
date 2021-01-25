@@ -8,6 +8,10 @@ namespace BibliotecaDeFunciones
     /// <summary>
     /// Se ha modificado este fichero en el repositorio local
     /// </summary>
+    /// 
+    /// <autor>Óscar González Martínez </autor>
+    /// 
+
     public class FuncionesComboBox
     {
         public void RellenarComboBox(ComboBox cbb, string selectCmd, string cadenadeconexion)
